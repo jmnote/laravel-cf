@@ -1,0 +1,5 @@
+{
+     "PHP_VERSION": "{PHP_55_LATEST}",
+     "PHP_EXTENSIONS": [ "bz2", "zlib", "openssl", "curl", "mcrypt", "mbstring", "pdo", "pdo_mysql" ],
+     "WEBDIR": "laravel/public",
+}
